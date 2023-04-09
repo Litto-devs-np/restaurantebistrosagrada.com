@@ -34,7 +34,7 @@
 
 a { color: inherit; text-decoration: none; }
 
-html, body { margin: 0px; background-color: var(--color-1) }
+html, body { margin: 0px; background-color: var(--color-1); scroll-behavior: smooth; }
 
 .top-bar {
     display: flex;
@@ -171,9 +171,9 @@ div.hero i { padding-right: 0.5em; }
 div.quick-links {
     display: flex;
     justify-content: center;
-    padding: 1.5rem;
+    padding: 1rem;
     align-items: center;
-    gap:1.5rem;
+    gap:1rem;
     flex-wrap: wrap;
 }
 
@@ -259,4 +259,43 @@ div.special div.combo {
 
 .flex-reverse {
     flex-direction: row-reverse;
+}
+
+.slide-left {
+    animation: slide-left 1.7s;
+}
+
+.slide-right {
+    animation: slide-right 1.7s;
+}
+
+@keyframes slide-right {
+    from {
+        transform: translateX(-100%)
+    }
+    to {
+        transform: translateX(0%)
+    }
+}
+
+@keyframes slide-left {
+    from {
+        transform: translateX(100%)
+    }
+    to {
+        transform: translateX(0%)
+    }
+}
+
+.up-btn {
+    position: fixed;
+    bottom: 1.2em;
+    right: 1.2em;
+    /* width: 40px; */
+    /* height: 30px; */
+    font-size: 2em;
+    /* border: solid 1px red; */
+    border-radius: 0.8em;
+    padding: 0.2em;
+    box-shadow: 1.5px 1.5px 5px var(--color-4)
 }
