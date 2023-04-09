@@ -171,7 +171,7 @@ div.hero i { padding-right: 0.5em; }
 div.quick-links {
     display: flex;
     justify-content: center;
-    padding: 2.5rem;
+    padding: 1.5rem;
     align-items: center;
     gap:1.5rem;
     flex-wrap: wrap;
@@ -225,4 +225,38 @@ div.schedule .day {
 
 div.schedule .time {
     text-transform: uppercase;
+}
+
+
+div.special {
+    display:flex;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+div.special > div {
+    flex: 1;
+}
+
+div.special div.text {
+    font-size: 1.5rem;
+    padding: 4em 0 4em 0;
+}
+
+div.special div.image {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+div.special div.combo {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    font-size: 1.5rem;
+    padding: 4em 1em 4em 1em;
+}
+
+.flex-reverse {
+    flex-direction: row-reverse;
 }
