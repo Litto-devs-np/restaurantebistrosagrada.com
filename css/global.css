@@ -153,15 +153,16 @@ div.hero > div.main > div.subtitle {
     font-size: 1.2rem;
 }
 
-div.hero > div.main .cta {
+div.hero > div.main .cta, div.menu .cta {
     font-size: 1.2rem;
+    color: var(--color-3);
     font-family: var(--font-3);
     border: solid 1px var(--color-3);
     padding: 0.3em 2em 0.3em 2em;
     transition: background-color 375ms, color 375ms;
 }
 
-div.hero > div.main .cta:hover {
+div.hero > div.main .cta:hover, div.menu .cta:hover {
     color: var(--color-2);
     background-color: var(--color-3);
 }
@@ -175,6 +176,7 @@ div.quick-links {
     align-items: center;
     gap:1rem;
     flex-wrap: wrap;
+    margin-bottom: 2em;
 }
 
 div.quick-links > div {
@@ -298,4 +300,15 @@ div.special div.combo {
     border-radius: 0.8em;
     padding: 0.2em;
     box-shadow: 1.5px 1.5px 5px var(--color-4)
+}
+
+div.menu {
+    text-align: center;
+}
+
+div.menu > img {
+    max-width: 1000px;
+    width: 100%;
+    height: auto;
+    padding: 0.5em;
 }
