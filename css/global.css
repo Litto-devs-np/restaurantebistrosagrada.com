@@ -303,12 +303,61 @@ div.special div.combo {
 }
 
 div.menu {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-transform: capitalize;
 }
 
-div.menu > img {
+div.menu > div.title {
+    text-align: center;
+    font-size: 2em;
+    padding: 0.3em;
+}
+
+div.menu > div.sections {
     max-width: 1000px;
     width: 100%;
-    height: auto;
-    padding: 0.5em;
+    padding: 1em;
 }
+
+div.menu div.section {
+    margin-left: 1em;
+    margin-right: 1em;
+    border-radius: 0.2em;
+    margin-bottom: 0.1em;
+}
+
+div.menu div.section > div.header {
+    font-size: 1.4em;
+    padding-left: 1em;
+    cursor: pointer;
+    /* border-radius: 3em; */
+}
+
+div.menu div.section > div.body {
+    font-size: 1.1em;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
+}
+
+div.menu div.item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px grey;
+}
+
+div.menu > div.title > i {
+    padding-left: 1em;
+}
+
+div.menu div.item > div.name {
+    flex-grow: 1;
+}
+
+div.menu div.item > div.price {
+    min-width: 3.0em;
+    text-align: right;
+    color: red;
+}
+
