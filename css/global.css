@@ -325,18 +325,25 @@ div.menu div.section {
     margin-left: 1em;
     margin-right: 1em;
     border-radius: 0.2em;
-    margin-bottom: 0.1em;
+    margin-bottom: 0.4em;
 }
 
 div.menu div.section > div.header {
-    font-size: 1.4em;
+    font-size: 1.5em;
     padding-left: 1em;
     cursor: pointer;
-    /* border-radius: 3em; */
+    transition: all .15s ease-in;
+}
+
+div.menu div.section > div.header:hover {
+    color: var(--color-3);
+    background-color: var(--color-2);
+    text-decoration: underline;
+    letter-spacing: 0.12em;
 }
 
 div.menu div.section > div.body {
-    font-size: 1.1em;
+    font-size: 1.05em;
     padding-left: 0.7em;
     padding-right: 0.7em;
 }
@@ -345,6 +352,7 @@ div.menu div.item {
     display: flex;
     justify-content: space-between;
     border-bottom: solid 1px grey;
+    padding-top: 0.3em;
 }
 
 div.menu > div.title > i {
