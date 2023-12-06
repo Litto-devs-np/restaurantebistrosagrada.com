@@ -369,3 +369,20 @@ div.menu div.item > div.price {
     color: red;
 }
 
+
+div.menu > div.sections div.group-section {
+    text-align: center;
+    padding-bottom: 0.8rem;
+}
+
+div.menu > div.sections div.group-section > div.title {
+    text-align: center;
+    font-size: 1.3rem;
+    text-decoration: underline;
+}
+
+div.menu > div.sections > div.group-menu div.price {
+    text-align: center;
+    font-size: 2rem;
+    color: red;
+}
