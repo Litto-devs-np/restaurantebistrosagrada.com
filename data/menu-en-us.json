@@ -1,0 +1,591 @@
+{
+    "tapas": [
+        {
+            "category": "Assortments",
+            "items": [
+                {
+                    "name": "Iberic Ham of Bellota",
+                    "price": 21
+                },
+                {
+                    "name": "Cheese Plate",
+                    "price": 11.5
+                },
+                {
+                    "name": "Fuet and Chorizo Iberic",
+                    "price": 10.5
+                },
+                {
+                    "name": "Mixed plate of cheese and fuet/Chorizo",
+                    "price": 13.5
+                }
+            ]
+        },
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "name": "Iberic Ham of Bellota",
+                    "price": 21
+                },
+                {
+                    "name": "Cheese Plate",
+                    "price": 11.5
+                },
+                {
+                    "name": "Fuet and Chorizo Iberic",
+                    "price": 10.5
+                },
+                {
+                    "name": "Mixed plate of cheese and fuet/Chorizo",
+                    "price": 13.5
+                },
+                {
+                    "name": "Chorizo and ham",
+                    "price": 12.5
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "name": "Green salad of Bistro with eggs or tuna",
+                    "price": 9.5
+                },
+                {
+                    "name": "Green salad with Goat Cheese",
+                    "price": 10.5
+                },
+                {
+                    "name": "Cesar Salad with grill Chicken, crutons, parmesan cheese and cesar dressing",
+                    "price": 11.5
+                },
+                {
+                    "name": "Mix Green Salad With Burrata Cheese, tomato, olives and basil vinegar",
+                    "price": 14.5
+                }
+            ]
+        },
+        {
+            "category": "ChildMenu",
+            "items": [
+                {
+                    "name": "Chicken Strips With French Fries",
+                    "price": 9.5
+                },
+                {
+                    "name": "Chicken Nuggets With French Fries",
+                    "price": 9.5
+                },
+                {
+                    "name": "Beef/Chicken Burger With French Fries",
+                    "price": 10
+                },
+                {
+                    "name": "Spaghetty with Napolitana Sauce",
+                    "price": 10.5
+                },
+                {
+                    "name": "Spaghetty with Bolognese Sauce",
+                    "price": 11.5
+                }
+            ]
+        },
+        {
+            "category": "Tapas",
+            "items": [
+                {
+                    "name": "Toasted Bread with tomato",
+                    "price": 4.5
+                },
+                {
+                    "name": "Homemade Bravas",
+                    "price": 5.5
+                },
+                {
+                    "name": "French fries",
+                    "price": 5.5
+                },
+                {
+                    "name": "Fried Eggs with Potatoes and iberic Ham",
+                    "price": 9.5
+                },
+                {
+                    "name": "Fried Artichoke Chips with cane honey",
+                    "price": 8.5
+                },
+                {
+                    "name": "Egg plant with romesco sauce",
+                    "price": 8.5
+                },
+                {
+                    "name": "Battered Squids fried Andaluzian",
+                    "price": 11.5
+                },
+                {
+                    "name": "Bars/heads of Squids fried Andaluzian",
+                    "price": 11.5
+                },
+                {
+                    "name": "Russian Salad",
+                    "price": 6.5
+                },
+                {
+                    "name": "Grilled Razor Clams With Garlic And Parsley",
+                    "price": 11.5
+                },
+                {
+                    "name": "Baby Battered Squids fried Andaluzian",
+                    "price": 11.5
+                },
+                {
+                    "name": "Green Peppers",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mexican / BBQ Chicken Wings",
+                    "price": 8.5
+                },
+                {
+                    "name": "Fried Shrimp with garlic Toast",
+                    "price": 14
+                },
+                {
+                    "name": "Croquetes Ham / Mushroom / Chicken",
+                    "price": 6.5
+                },
+                {
+                    "name": "Chicken Dumplings with soya sauce",
+                    "price": 9.5
+                },
+                {
+                    "name": "Galician style Lacon (Baked Ham) With Boiled Potatoes",
+                    "price": 12.5
+                }
+            ]
+        },
+        {
+            "category": "Burger",
+            "items": [
+                {
+                    "name": "Beef Burger BBQ Bacon and Cheese",
+                    "price": 11.5
+                },
+                {
+                    "name": "Chicken Burger with Avocado",
+                    "price": 11.5
+                },
+                {
+                    "name": "Veggie Burger",
+                    "price": 11.5
+                },
+                {
+                    "name": "Vegan Burger with Avocado",
+                    "price": 11.5
+                },
+                {
+                    "name": "Bistro Burger",
+                    "price": 12.5
+                }
+            ]
+        },
+        {
+            "category": "Pastas",
+            "items": [
+                {
+                    "name": "Spaghetti Bolognese with Parmesan Cheese",
+                    "price": 12.5
+                },
+                {
+                    "name": "Spaghetti with Napolitana sauce and Parmesan Cheese",
+                    "price": 11.5
+                },
+                {
+                    "name": "Spaghetti Carbonara with Parmesan",
+                    "price": 13.5
+                },
+                {
+                    "name": "Seafood Espagueti",
+                    "price": 15.5
+                },
+                {
+                    "name": "Tagliatelle with Burrata Cheese and Pesto sauce",
+                    "price": 16.5
+                }
+            ]
+        },
+        {
+            "category": "Fish",
+            "items": [
+                {
+                    "name": "Grilled Octopus With Grilled Vegetables",
+                    "price": 22
+                },
+                {
+                    "name": "Galician Octopus With Sliced Boiled Potatoes",
+                    "price": 22
+                },
+                {
+                    "name": "Grilled Squids With Green Salad",
+                    "price": 21.5
+                },
+                {
+                    "name": "Grilled Squid With green Salad",
+                    "price": 19.95
+                },
+                {
+                    "name": "Grilled Salmon With Salad And Avocado",
+                    "price": 19.5
+                },
+                {
+                    "name": "Supreme Codfish with honey sauce and crunchy vegetables",
+                    "price": 19.5
+                },
+                {
+                    "name": "Grilled cuttlefish with grilled vegetables",
+                    "price": 16.5
+                },
+                {
+                    "name": "Seafood Platter (Mussels, Clams, Shrims, Squid, Razor Clams)",
+                    "price": 48.5
+                }
+            ]
+        },
+        {
+            "category": "Rice",
+            "items": [
+                {
+                    "name": "SeaFood Paella with Black rice",
+                    "price": 21.5
+                },
+                {
+                    "name": "SeaFood Paella",
+                    "price": 18.5
+                },
+                {
+                    "name": "SeaFod Fideua",
+                    "price": 18.5
+                },
+                {
+                    "name": "Chicken paella or vegetable paella",
+                    "price": 17
+                },
+                {
+                    "name": "Seafood and Chicken mixed Paella",
+                    "price": 22
+                },
+                {
+                    "name": "Mushroom Risotto with Parmesan Cheese",
+                    "price": 14.5
+                },
+                {
+                    "name": "Shrims and Mushroom mixed Risotto",
+                    "price": 18
+                },
+                {
+                    "name": "Rice with lobster (min 2 ps)",
+                    "price": 51
+                }
+            ]
+        },
+        {
+            "category": "Meat",
+            "items": [
+                {
+                    "name": "Grilled Lamb Ribs with Alioli and French Fries",
+                    "price": 22.95
+                },
+                {
+                    "name": "Iberian PREY meat with grilled vegetables",
+                    "price": 23.5
+                },
+                {
+                    "name": "Beef Steak of Galicia 500g served with Fries and Green Peppers",
+                    "price": 29.95
+                },
+                {
+                    "name": "Steak of Girona 320g aprox. with Fries and green Peppers",
+                    "price": 24.95
+                },
+                {
+                    "name": "Beef Tender loin with fries and green peppers",
+                    "price": 25.5
+                },
+                {
+                    "name": "Meatballs with cuttlefish Jardinera style",
+                    "price": 17.5
+                },
+                {
+                    "name": "Barbecued Pork Ribs with fries and Coleslaw",
+                    "price": 23.5
+                }
+            ]
+        },
+        {
+            "category": "Desert",
+            "items": [
+                {
+                    "name": "Crema Catalana",
+                    "price": 6.5
+                },
+                {
+                    "name": "Cheescake",
+                    "price": 6.5
+                },
+                {
+                    "name": "Chocolat Coulant with vanilla ice-cream",
+                    "price": 7.5
+                },
+                {
+                    "name": "Ice-cream: Chocolat, vanilla",
+                    "price": 4.5
+                },
+                {
+                    "name": "Seasonal Fresh Fruit",
+                    "price": 5.5
+                }
+            ]
+        }
+    ],
+    "groupMenu": [
+        {
+            "category": "Menu Bogavante",
+            "price": 35,
+            "sections": [
+                {
+                    "title": "Starter",
+                    "items": [
+                        "Russian Salad",
+                        "Squids to the andaluza", 
+                        "Grilled Rasher"
+                    ]
+                },
+                {
+                    "title": "SECOND PLATE",
+                    "items": [
+                        "Rice with Lobster"
+                    ]
+                },
+                {
+                    "title": "Included",
+                    "items": [
+                        "Bread with tomato, Drink & Dessert"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menu Picapiedra",
+            "price": 35,
+            "sections": [
+                {
+                    "title": "Starter",
+                    "items": [
+                        "Iberic Ham",
+                        "Jamón Ibérico de Bellota",
+                        "Pimientos de Padrón"
+                    ]
+                },
+                {
+                    "title": "SECOND PLATE",
+                    "items": [
+                        "Steak of Galicia (1 kilo Appro)"
+                    ]
+                },
+                {
+                    "title": "Included",
+                    "items": [
+                        "Bread with tomato, Drink & Dessert"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menu Paella",
+            "price": 25,
+            "sections": [
+                {
+                    "title": "Main course",
+                    "items": [
+                        "Paella (Seafood, vegetables or chicken)"
+                    ]
+                },
+                {
+                    "title": "Included",
+                    "items": [
+                        "Sangria"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menu 1",
+            "price": 35,
+            "sections": [
+                {
+                    "title": "On the table",
+                    "items": [
+                        "Olives",
+                        "Potato chips"
+                    ]
+                },
+                {
+                    "title": "Starters (To share center of the table (per 4p))",
+                    "items": [
+                        "Chef's Russian salad",
+                        "Fried Eggs with Iberian ham",
+                        "Assorted cold cuts (Fuet Chorizo and Cheese)",
+                        "Padron peppers",
+                        "Toasted Cristal bread with tomato and olive oil"
+                    ]
+                },
+                {
+                    "title": "Main course (Can choose one per pax )",
+                    "items": [
+                        "Girona Veal Steak with garnish and pepper sauce",
+                        "Grilled salmon with green salad"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Party Cake"
+                    ]
+                },
+                {
+                    "title": "Selection of drinks",
+                    "items": [
+                        "Red or white wine (A bottle for 4 pax) Or Soft drink or Beer And Water"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menu 2",
+            "price": 40,
+            "sections": [
+                {
+                    "title": "On the table",
+                    "items": [
+                        "Olives",
+                        "Potato chips"
+                    ]
+                },
+                {
+                    "title": "Starters (To share center of the table (per 4p))",
+                    "items": [
+                        "Chef's Russian salad",
+                        "Andalusian-style fried BabySquid",
+                        "Iberian acorn-fed Ham",
+                        "Chef's Croquettes",
+                        "Padron peppers",
+                        "Toasted Cristal bread with tomato and olive oil"
+                    ]
+                },
+                {
+                    "title": "Main course (Can choose one per pax )",
+                    "items": [
+                        "Rice with Lobster (Lobster Soup)"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Party Cake"
+                    ]
+                },
+                {
+                    "title": "Selection of drinks",
+                    "items": [
+                        "Red or white wine (A bottle for 4 pax) Or Soft drink or Beer And Water"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menu 3",
+            "price": 45,
+            "sections": [
+                {
+                    "title": "On the table",
+                    "items": [
+                        "Olives",
+                        "Potato chips"
+                    ]
+                },
+                {
+                    "title": "Starters (To share center of the table (per 4p))",
+                    "items": [
+                        "Iberian acorn-fed Ham",
+                        "Chef's Croquettes",
+                        "Andalusian-style fried Squid",
+                        "Chef's Russian salad",
+                        "Assorted cold cuts (Fuet Chorizo and Cheese)",
+                        "Asparagus from Tudela"
+                    ]
+                },
+                {
+                    "title": "Main course (Can choose one per pax )",
+                    "items": [
+                        "Black Rice with Shrimps and Cuttlefish or Marinera rice"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Party Cake"
+                    ]
+                },
+                {
+                    "title": "Selection of drinks",
+                    "items": [
+                        "Red or white wine (A bottle for 4 pax) Or Soft drink or Beer And Water"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menu 4",
+            "price": 50,
+            "sections": [
+                {
+                    "title": "On the table",
+                    "items": [
+                        "Olives",
+                        "Potato chips"
+                    ]
+                },
+                {
+                    "title": "Starters (To share center of the table (per 4p))",
+                    "items": [
+                        "Iberian acorn-fed Ham",
+                        "Padron Peppers",
+                        "Andalusian-style fried Squid",
+                        "Assorted cold cuts (Fuet Chorizo and Cheese )",
+                        "Asparagus from Tudela",
+                        "Toasted Cristal bread with tomato and olive oil"
+                    ]
+                },
+                {
+                    "title": "Main course (Can choose one per pax )",
+                    "items": [
+                        "Galician Veal ribs steak 500 gr with fries and Padronpeppers"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Party Cake"
+                    ]
+                },
+                {
+                    "title": "Selection of drinks",
+                    "items": [
+                        "Red or white wine (A bottle for 4 pax) Or Soft drink or Beer And Water"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,591 @@
+{
+    "tapas": [
+        {
+            "category": "Surtidos",
+            "items": [
+                {
+                    "name": "Jamón Ibérico de Bellota",
+                    "price": 21
+                },
+                {
+                    "name": "Tabla de Quesos",
+                    "price": 11.5
+                },
+                {
+                    "name": "Fuet y Chorizo Ibérico",
+                    "price": 10.5
+                },
+                {
+                    "name": "Tabla mixta de quesos y fuet/chorizo",
+                    "price": 13.5
+                }
+            ]
+        },
+        {
+            "category": "Entrantes",
+            "items": [
+                {
+                    "name": "Jamón Ibérico de Bellota",
+                    "price": 21
+                },
+                {
+                    "name": "Tabla de Quesos",
+                    "price": 11.5
+                },
+                {
+                    "name": "Fuet y Chorizo Ibérico",
+                    "price": 10.5
+                },
+                {
+                    "name": "Tabla mixta de quesos y fuet/chorizo",
+                    "price": 13.5
+                },
+                {
+                    "name": "Chorizo y jamón",
+                    "price": 12.5
+                }
+            ]
+        },
+        {
+            "category": "Ensaladas",
+            "items": [
+                {
+                    "name": "Ensalada verde del Bistro con huevos o atún",
+                    "price": 9.5
+                },
+                {
+                    "name": "Ensalada verde con Queso de Cabra",
+                    "price": 10.5
+                },
+                {
+                    "name": "Ensalada César con pollo a la plancha, picatostes, queso parmesano y salsa césar",
+                    "price": 11.5
+                },
+                {
+                    "name": "Ensalada verde mixta con Queso Burrata, tomate, aceitunas y vinagre de albahaca",
+                    "price": 14.5
+                }
+            ]
+        },
+        {
+            "category": "Menú Infantil",
+            "items": [
+                {
+                    "name": "Tiras de Pollo con Patatas Fritas",
+                    "price": 9.5
+                },
+                {
+                    "name": "Nuggets de Pollo con Patatas Fritas",
+                    "price": 9.5
+                },
+                {
+                    "name": "Hamburguesa de Ternera/Pollo con Patatas Fritas",
+                    "price": 10
+                },
+                {
+                    "name": "Espaguetis con Salsa Napolitana",
+                    "price": 10.5
+                },
+                {
+                    "name": "Espaguetis con Salsa Boloñesa",
+                    "price": 11.5
+                }
+            ]
+        },
+        {
+            "category": "Tapas",
+            "items": [
+                {
+                    "name": "Pan tostado con tomate",
+                    "price": 4.5
+                },
+                {
+                    "name": "Patatas Bravas caseras",
+                    "price": 5.5
+                },
+                {
+                    "name": "Patatas fritas",
+                    "price": 5.5
+                },
+                {
+                    "name": "Huevos fritos con patatas y jamón ibérico",
+                    "price": 9.5
+                },
+                {
+                    "name": "Chips de alcachofa frita con miel de caña",
+                    "price": 8.5
+                },
+                {
+                    "name": "Berenjena con salsa romesco",
+                    "price": 8.5
+                },
+                {
+                    "name": "Calamares a la andaluza",
+                    "price": 11.5
+                },
+                {
+                    "name": "Rabas/puntas de calamar a la andaluza",
+                    "price": 11.5
+                },
+                {
+                    "name": "Ensaladilla rusa",
+                    "price": 6.5
+                },
+                {
+                    "name": "Navajas a la plancha con ajo y perejil",
+                    "price": 11.5
+                },
+                {
+                    "name": "Chipirones a la andaluza",
+                    "price": 11.5
+                },
+                {
+                    "name": "Pimientos de Padrón",
+                    "price": 6.5
+                },
+                {
+                    "name": "Alitas de pollo Mexicanas / BBQ",
+                    "price": 8.5
+                },
+                {
+                    "name": "Gambas al ajillo con pan tostado",
+                    "price": 14
+                },
+                {
+                    "name": "Croquetas de Jamón / Setas / Pollo",
+                    "price": 6.5
+                },
+                {
+                    "name": "Empanadillas de pollo con salsa de soja",
+                    "price": 9.5
+                },
+                {
+                    "name": "Lacón a la gallega con patatas cocidas",
+                    "price": 12.5
+                }
+            ]
+        },
+        {
+            "category": "Hamburguesas",
+            "items": [
+                {
+                    "name": "Hamburguesa de ternera BBQ con bacon y queso",
+                    "price": 11.5
+                },
+                {
+                    "name": "Hamburguesa de pollo con aguacate",
+                    "price": 11.5
+                },
+                {
+                    "name": "Hamburguesa vegetariana",
+                    "price": 11.5
+                },
+                {
+                    "name": "Hamburguesa vegana con aguacate",
+                    "price": 11.5
+                },
+                {
+                    "name": "Hamburguesa Bistro",
+                    "price": 12.5
+                }
+            ]
+        },
+        {
+            "category": "Pastas",
+            "items": [
+                {
+                    "name": "Espaguetis a la boloñesa con queso parmesano",
+                    "price": 12.5
+                },
+                {
+                    "name": "Espaguetis con salsa napolitana y queso parmesano",
+                    "price": 11.5
+                },
+                {
+                    "name": "Espaguetis carbonara con parmesano",
+                    "price": 13.5
+                },
+                {
+                    "name": "Espaguetis marinera",
+                    "price": 15.5
+                },
+                {
+                    "name": "Tagliatelle con queso burrata y salsa pesto",
+                    "price": 16.5
+                }
+            ]
+        },
+        {
+            "category": "Pescados",
+            "items": [
+                {
+                    "name": "Pulpo a la plancha con verduras a la parrilla",
+                    "price": 22
+                },
+                {
+                    "name": "Pulpo a la gallega con patatas cocidas",
+                    "price": 22
+                },
+                {
+                    "name": "Calamares a la plancha con ensalada verde",
+                    "price": 21.5
+                },
+                {
+                    "name": "Sepia a la plancha con ensalada verde",
+                    "price": 19.95
+                },
+                {
+                    "name": "Salmón a la plancha con ensalada y aguacate",
+                    "price": 19.5
+                },
+                {
+                    "name": "Suprema de bacalao con salsa de miel y verduras crujientes",
+                    "price": 19.5
+                },
+                {
+                    "name": "Sepia a la plancha con verduras a la parrilla",
+                    "price": 16.5
+                },
+                {
+                    "name": "Mariscada (Mejillones, Almejas, Gambas, Calamares, Navajas)",
+                    "price": 48.5
+                }
+            ]
+        },
+        {
+            "category": "Arroces",
+            "items": [
+                {
+                    "name": "Paella de marisco con arroz negro",
+                    "price": 21.5
+                },
+                {
+                    "name": "Paella de marisco",
+                    "price": 18.5
+                },
+                {
+                    "name": "Fideuá de marisco",
+                    "price": 18.5
+                },
+                {
+                    "name": "Paella de pollo o verduras",
+                    "price": 17
+                },
+                {
+                    "name": "Paella mixta de marisco y pollo",
+                    "price": 22
+                },
+                {
+                    "name": "Risotto de setas con queso parmesano",
+                    "price": 14.5
+                },
+                {
+                    "name": "Risotto mixto de gambas y setas",
+                    "price": 18
+                },
+                {
+                    "name": "Arroz con bogavante (mín. 2 pers)",
+                    "price": 51
+                }
+            ]
+        },
+        {
+            "category": "Carnes",
+            "items": [
+                {
+                    "name": "Costillas de cordero a la plancha con alioli y patatas fritas",
+                    "price": 22.95
+                },
+                {
+                    "name": "Presa ibérica con verduras a la parrilla",
+                    "price": 23.5
+                },
+                {
+                    "name": "Chuletón de vaca gallega 500g con patatas fritas y pimientos de padrón",
+                    "price": 29.95
+                },
+                {
+                    "name": "Entrecot de Girona 320g aprox. con patatas fritas y pimientos de padrón",
+                    "price": 24.95
+                },
+                {
+                    "name": "Solomillo de ternera con patatas fritas y pimientos verdes",
+                    "price": 25.5
+                },
+                {
+                    "name": "Albóndigas con sepia a la jardinera",
+                    "price": 17.5
+                },
+                {
+                    "name": "Costillas de cerdo a la barbacoa con patatas fritas y ensalada de col",
+                    "price": 23.5
+                }
+            ]
+        },
+        {
+            "category": "Postres",
+            "items": [
+                {
+                    "name": "Crema catalana",
+                    "price": 6.5
+                },
+                {
+                    "name": "Tarta de queso",
+                    "price": 6.5
+                },
+                {
+                    "name": "Coulant de chocolate con helado de vainilla",
+                    "price": 7.5
+                },
+                {
+                    "name": "Helados: Chocolate, vainilla",
+                    "price": 4.5
+                },
+                {
+                    "name": "Fruta fresca de temporada",
+                    "price": 5.5
+                }
+            ]
+        }
+    ],
+    "groupMenu": [
+        {
+            "category": "Menú Bogavante",
+            "price": 35,
+            "sections": [
+                {
+                    "title": "Entrantes",
+                    "items": [
+                        "Ensaladilla rusa",
+                        "Calamares a la andaluza",
+                        "Panceta a la plancha"
+                    ]
+                },
+                {
+                    "title": "Segundo plato",
+                    "items": [
+                        "Arroz con bogavante"
+                    ]
+                },
+                {
+                    "title": "Incluido",
+                    "items": [
+                        "Pan con tomate, Bebida y Postre"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menú Picapiedra",
+            "price": 35,
+            "sections": [
+                {
+                    "title": "Entrantes",
+                    "items": [
+                        "Jamón ibérico",
+                        "Jamón ibérico de bellota",
+                        "Pimientos de padrón"
+                    ]
+                },
+                {
+                    "title": "Segundo plato",
+                    "items": [
+                        "Chuletón de Galicia (1 kilo aprox.)"
+                    ]
+                },
+                {
+                    "title": "Incluido",
+                    "items": [
+                        "Pan con tomate, Bebida y Postre"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menú Paella",
+            "price": 25,
+            "sections": [
+                {
+                    "title": "Plato principal",
+                    "items": [
+                        "Paella (Marisco, verduras o pollo)"
+                    ]
+                },
+                {
+                    "title": "Incluido",
+                    "items": [
+                        "Sangría"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menú 1",
+            "price": 35,
+            "sections": [
+                {
+                    "title": "Para picar",
+                    "items": [
+                        "Aceitunas",
+                        "Patatas chips"
+                    ]
+                },
+                {
+                    "title": "Entrantes (Para compartir en el centro de la mesa (para 4p))",
+                    "items": [
+                        "Ensaladilla rusa del chef",
+                        "Huevos fritos con jamón ibérico",
+                        "Surtido de embutidos (Fuet, chorizo y queso)",
+                        "Pimientos de padrón",
+                        "Pan cristal tostado con tomate y aceite de oliva"
+                    ]
+                },
+                {
+                    "title": "Plato principal (A elegir uno por persona)",
+                    "items": [
+                        "Entrecot de ternera de Girona con guarnición y salsa de pimienta",
+                        "Salmón a la plancha con ensalada verde"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Tarta de celebración"
+                    ]
+                },
+                {
+                    "title": "Selección de bebidas",
+                    "items": [
+                        "Vino tinto o blanco (Una botella para 4 pers.) O refresco o cerveza y agua"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menú 2",
+            "price": 40,
+            "sections": [
+                {
+                    "title": "Para picar",
+                    "items": [
+                        "Aceitunas",
+                        "Patatas chips"
+                    ]
+                },
+                {
+                    "title": "Entrantes (Para compartir en el centro de la mesa (para 4p))",
+                    "items": [
+                        "Ensaladilla rusa del chef",
+                        "Chipirones fritos a la andaluza",
+                        "Jamón ibérico de bellota",
+                        "Croquetas del chef",
+                        "Pimientos de padrón",
+                        "Pan cristal tostado con tomate y aceite de oliva"
+                    ]
+                },
+                {
+                    "title": "Plato principal (A elegir uno por persona)",
+                    "items": [
+                        "Arroz con bogavante (Sopa de bogavante)"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Tarta de celebración"
+                    ]
+                },
+                {
+                    "title": "Selección de bebidas",
+                    "items": [
+                        "Vino tinto o blanco (Una botella para 4 pers.) O refresco o cerveza y agua"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menú 3",
+            "price": 45,
+            "sections": [
+                {
+                    "title": "Para picar",
+                    "items": [
+                        "Aceitunas",
+                        "Patatas chips"
+                    ]
+                },
+                {
+                    "title": "Entrantes (Para compartir en el centro de la mesa (para 4p))",
+                    "items": [
+                        "Jamón ibérico de bellota",
+                        "Croquetas del chef",
+                        "Calamares fritos a la andaluza",
+                        "Ensaladilla rusa del chef",
+                        "Surtido de embutidos (Fuet, chorizo y queso)",
+                        "Espárragos de Tudela"
+                    ]
+                },
+                {
+                    "title": "Plato principal (A elegir uno por persona)",
+                    "items": [
+                        "Arroz negro con gambas y sepia o arroz a la marinera"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Tarta de celebración"
+                    ]
+                },
+                {
+                    "title": "Selección de bebidas",
+                    "items": [
+                        "Vino tinto o blanco (Una botella para 4 pers.) O refresco o cerveza y agua"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Menú 4",
+            "price": 50,
+            "sections": [
+                {
+                    "title": "Para picar",
+                    "items": [
+                        "Aceitunas",
+                        "Patatas chips"
+                    ]
+                },
+                {
+                    "title": "Entrantes (Para compartir en el centro de la mesa (para 4p))",
+                    "items": [
+                        "Jamón ibérico de bellota",
+                        "Pimientos de padrón",
+                        "Calamares fritos a la andaluza",
+                        "Surtido de embutidos (Fuet, chorizo y queso)",
+                        "Espárragos de Tudela",
+                        "Pan cristal tostado con tomate y aceite de oliva"
+                    ]
+                },
+                {
+                    "title": "Plato principal (A elegir uno por persona)",
+                    "items": [
+                        "Chuletón de ternera gallega 500g con patatas fritas y pimientos de padrón"
+                    ]
+                },
+                {
+                    "title": "Postre",
+                    "items": [
+                        "Tarta de celebración"
+                    ]
+                },
+                {
+                    "title": "Selección de bebidas",
+                    "items": [
+                        "Vino tinto o blanco (Una botella para 4 pers.) O refresco o cerveza y agua"
+                    ]
+                }
+            ]
+        }
+    ]
+}
